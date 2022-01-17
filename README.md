@@ -1,7 +1,7 @@
 ## Hemorrhage_Type_Stroke_Segmentation_ResUnetPlusPlus
 **Dataset images**
 
-![Dataset](https://user-images.githubusercontent.com/59391291/149768579-cdcc5796-4595-4faa-826c-be53578166a1.PNG)
+![Dataset](https://user-images.githubusercontent.com/59391291/149768579-cdcc5796-4595-4faa-826c-be53578166a1.PNG )
 
 
 **Preprocessing and prediction**
